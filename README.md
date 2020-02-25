@@ -12,4 +12,5 @@ Supported actions:
 - ask the cards for a specified amount of times;
 - creating a text log file (inputs and outputs of the program);
 - showing the hardest card (with most mistakes made while being answered);
-- reseting the statistics (mistake counts).
+- reseting the statistics (mistake counts);
+- console parameters available: -import *filename* -export *filename*.
